@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880652963944",
+    "firebase_url": "https://firstproject-ab61f-default-rtdb.firebaseio.com",
+    "project_id": "firstproject-ab61f",
+    "storage_bucket": "firstproject-ab61f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880652963944:android:2bb3235b1ee64e81282bdd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_setup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880652963944-1vn6cb1gccl7ctg1tii2tio61iff7o2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2Lw81EEIp9_ViF4kr1l_E72XQUXu1qMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880652963944-1vn6cb1gccl7ctg1tii2tio61iff7o2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
